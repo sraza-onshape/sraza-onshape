@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zain-train/)
 [![Outlook](https://img.shields.io/badge/Email-MS%20Outlook-blue)](mailto:sraza@ptc.com)
 
-Welcome to my GitHub page! My name's Zain. As part of the RCO team (R&D and Customer Operations) team at Onshape, I write code that deals with bugs in our production code, so that customers don't have to.
+Welcome to my GitHub page! My name's Zain. As part of the RCO team (R&D and Customer Operations) team at Onshape, I write code that deals with bugs in our production code, so that our customers don't have to.
 
 Pronouns: he/him
 
@@ -15,10 +15,10 @@ Pronouns: he/him
 
 #### 💪 Things I am challenging myself with: 💪
 - Building out [sample apps](https://github.com/sraza-onshape/OnshapeExperiments/) that use the Onshape RESTful APIs for 3D use cases
-- Completing a Master in Machine Learning at [Stevens](https://www.stevens.edu/) (hint: if you want to connect, ask me about 3D computer vision/graphics!)
+- Completing a Master in Machine Learning at [Stevens](https://www.stevens.edu/)
 
 #### 🚀 Things I do beyond code: 🗣
-- Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
+- Read! Currently going through [*A Biography of the Pixel*](http://alvyray.com/DigitalLight/default.htm) (2021), by Alvy Ray Smith (computer graphics legend/Pixar co-founder)
 - Shoot hoops 🏀
 
 #### :computer: Programming languages and tools: 
