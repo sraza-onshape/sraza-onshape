@@ -4,7 +4,7 @@
 [![Email Me](https://img.shields.io/badge/Email-MS%20Outlook-blue)](mailto:sraza@ptc.com)
 [![Link to Medium Blog](https://img.shields.io/badge/Medium-Blog-black)](https://img.shields.io/badge/Medium-Blog-black)
 
-Welcome to my GitHub page! My name's Zain. As part of the RCO team (R&D and Customer Operations) team at Onshape, I write code to proactively alert developers to issues in our product (so users don't have to :).
+Welcome to my GitHub page! My name's Zain. As part of the RCO (R&D and Customer Operations) team at Onshape, I write code that proactively alerts developers about issues in our product (so users don't have to :).
 
 Pronouns: he/him
 
