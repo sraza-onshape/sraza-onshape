@@ -11,11 +11,11 @@ Pronouns: he/him
 [Portfolio Website](https://zainraza.me/)
 
 #### 🌱 Things I am currently working on: 🌱
-- Server-side AI 🤖
+- Neural rendering for 3D apps at the edge 🤖
 
 #### 💪 Things I am challenging myself with: 💪
-- Completing a Master in Machine Learning at [Stevens](https://www.stevens.edu/)
-- Building out [sample apps](https://github.com/sraza-onshape/OnshapeExperiments/) that use the Onshape RESTful APIs for 3D use cases
+- Completing a MSc in Machine Learning at [Stevens](https://www.stevens.edu/)
+- Building out [sample apps](https://github.com/sraza-onshape/OnshapeExperiments/) that use the Onshape RESTful APIs for 3D CAD<>PLM integrations
 
 #### 🚀 Things I do beyond code: 🚀
 - Read! Currently going through [*A Biography of the Pixel*](http://alvyray.com/DigitalLight/default.htm) (2021), by Alvy Ray Smith (computer graphics pioneer/Pixar co-founder)
