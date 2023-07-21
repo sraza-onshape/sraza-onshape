@@ -4,21 +4,20 @@
 [![Email Me](https://img.shields.io/badge/Email-MS%20Outlook-blue)](mailto:sraza@ptc.com)
 [![Link to Medium Blog](https://img.shields.io/badge/Medium-Blog-black)](https://img.shields.io/badge/Medium-Blog-black)
 
-Welcome to my GitHub page! My name's Zain. As part of the RCO (R&D and Customer Operations) team at Onshape, I write code that proactively alerts developers about issues in our product (so users don't have to :).
+Welcome to my GitHub page! My name's Zain. As part of the AAA (Atlas Applied Analytics) team at PTC, I write code that un-complicates the processes which industrial manufacture implement using CAD/PLM/ALM/AR software.
 
 Pronouns: he/him
 
 [Portfolio Website](https://zainraza.me/)
 
 #### 🌱 Things I am currently working on: 🌱
-- Neural rendering for 3D apps at the edge 🤖
+- MLOps pipelines for proactive retraining of neural nets 🤖
 
 #### 💪 Things I am challenging myself with: 💪
-- Completing a MSc in Machine Learning at [Stevens](https://www.stevens.edu/)
-- Building out [sample apps](https://github.com/sraza-onshape/OnshapeExperiments/) that use the Onshape RESTful APIs for 3D CAD<>PLM integrations
+- Completing a MSc in Machine Learning at [Stevens](https://www.stevens.edu/) - let's connect if you find 3D neural rendering apps interesting :)
 
 #### 🚀 Things I do beyond code: 🚀
-- Read! Currently going through [*A Biography of the Pixel*](http://alvyray.com/DigitalLight/default.htm) (2021), by Alvy Ray Smith (computer graphics pioneer/Pixar co-founder)
+- Read! Favorite book is a tie between [*A Biography of the Pixel*](http://alvyray.com/DigitalLight/default.htm) (2021), by Alvy Ray Smith; and [*Creativity, Inc.*](https://www.goodreads.com/book/show/18077903-creativity-inc) by Ed Catmull (coincidentally both authors were early pioneers in computer graphics).
 - Shoot hoops 🏀
 
 #### :computer: Programming languages and tools: 
@@ -34,7 +33,7 @@ Pronouns: he/him
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img width="10%" src="https://iconape.com/wp-content/files/ef/351194/svg/351194.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 </p>
 
