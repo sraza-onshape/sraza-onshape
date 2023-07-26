@@ -17,7 +17,7 @@ Pronouns: he/him
 - Completing a MSc in Machine Learning at [Stevens](https://www.stevens.edu/) - let's connect if you find 3D neural rendering apps interesting :)
 
 #### 🚀 Things I do beyond code: 🚀
-- Read! Favorite book is a tie between [*A Biography of the Pixel*](http://alvyray.com/DigitalLight/default.htm) (2021), by Alvy Ray Smith; and [*Creativity, Inc.*](https://www.goodreads.com/book/show/18077903-creativity-inc) by Ed Catmull (coincidentally both authors were early pioneers in computer graphics).
+- Read! Favorite book is a tie between [*A Biography of the Pixel*](http://alvyray.com/DigitalLight/default.htm) (2021), by Alvy Ray Smith; and [*Creativity, Inc.*](https://www.goodreads.com/book/show/18077903-creativity-inc) (2014) by Ed Catmull (coincidentally both authors were early pioneers in computer graphics + founders at Pixar).
 - Shoot hoops 🏀
 
 #### :computer: Programming languages and tools: 
